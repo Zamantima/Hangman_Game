@@ -44,3 +44,5 @@ while not end_of_game:
     print("Game Over. You win!")
 
   print(stages[lives])
+
+print("This should show")
