@@ -8,7 +8,9 @@ Usage
 To play the game, follow these steps:
 
 Run the Python script.
+
 The program will select a random word from a predefined word list.
+
 You will see the initial state of the word represented by underscores.
 Guess a letter by typing it and pressing Enter.
 If your guess is correct, the letter will be revealed in the word.
